@@ -1,0 +1,23 @@
+name: flutter_application_lights
+description: A new Flutter project.
+
+# The version of your application
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^4.0.0
+  latlong2: ^0.8.2
+
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
